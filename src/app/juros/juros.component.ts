@@ -10,6 +10,7 @@ export class JurosComponent implements OnInit {
   c: number;
   j: number;
   p: number;
+  add: string;
 
   constructor() {
     this.m = 800;
